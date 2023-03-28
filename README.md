@@ -2,4 +2,4 @@
 A simple case study to understand a restaurants dinner sales 
 
 
-** Note:** Case Study in progress
+**Note:** Case Study in progress
