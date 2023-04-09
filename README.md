@@ -13,17 +13,17 @@ He plans on using these insights to help him decide whether he should expand the
 Danny has shared with you 3 key datasets for this case study: sales, menu, members
 ![image](https://user-images.githubusercontent.com/69184310/228436186-599718c5-9422-4880-896f-684eb20486c9.png)
 
-
-
-
-
-
-
+# Case Study Questions
+1. What is the total amount each customer spent at the restaurant?
+2. How many days has each customer visited the restaurant?
+3. What was the first item from the menu purchased by each customer?
+4. What is the most purchased item on the menu and how many times was it purchased by all customers?
+5. Which item was the most popular for each customer?
+6. Which item was purchased first by the customer after they became a member?
+7. Which item was purchased just before the customer became a member?
+8. What is the total items and amount spent for each member before they became a member?
+9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
 
 # Reference
 * [8WeekSQLChallenge : Case Study-1 by Danny Ma on May 1, 2021](https://8weeksqlchallenge.com/case-study-1/)<br>
 * [Data with Danny](https://www.datawithdanny.com/)
-
-
-
-**Note:** Case Study in progress
